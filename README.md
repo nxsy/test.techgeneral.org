@@ -1,2 +1,0 @@
-# test.techgeneral.org
-test
