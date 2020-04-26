@@ -5,6 +5,7 @@ title: "Setting up new Windows machine"
 # Install Windows
 
 - Disable all information sharing
+- Test
 
 # Bootstrap apps
 
