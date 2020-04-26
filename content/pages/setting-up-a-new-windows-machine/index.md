@@ -6,6 +6,7 @@ title: "Setting up new Windows machine"
 
 - Disable all information sharing
 - Test
+- test again
 
 # Bootstrap apps
 
